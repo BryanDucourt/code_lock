@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/bryandu/Develop/verilog/code_lock/code_lock.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sim_1/new/tb.v,1624583419,verilog,,,,tb,,,,,,,,
+/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/code4_in.v,1624437157,verilog,,/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/code4_reg.v,,code4_in,,,,,,,,
+/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/code4_reg.v,1624455679,verilog,,/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/lock_dectect.v,,code4_reg,,,,,,,,
+/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/lock_dectect.v,1624580326,verilog,,/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/top.v,,lock_dectect,,,,,,,,
+/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sources_1/new/top.v,1624846067,verilog,,/home/bryandu/Develop/verilog/code_lock/code_lock.srcs/sim_1/new/tb.v,,top,,,,,,,,
